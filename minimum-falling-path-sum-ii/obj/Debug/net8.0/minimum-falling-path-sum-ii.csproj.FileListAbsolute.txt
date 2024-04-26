@@ -1,0 +1,15 @@
+D:\Repositories\Leetcode-repo\minimum-falling-path-sum-ii\minimum-falling-path-sum-ii\bin\Debug\net8.0\minimum-falling-path-sum-ii.exe
+D:\Repositories\Leetcode-repo\minimum-falling-path-sum-ii\minimum-falling-path-sum-ii\bin\Debug\net8.0\minimum-falling-path-sum-ii.deps.json
+D:\Repositories\Leetcode-repo\minimum-falling-path-sum-ii\minimum-falling-path-sum-ii\bin\Debug\net8.0\minimum-falling-path-sum-ii.runtimeconfig.json
+D:\Repositories\Leetcode-repo\minimum-falling-path-sum-ii\minimum-falling-path-sum-ii\bin\Debug\net8.0\minimum-falling-path-sum-ii.dll
+D:\Repositories\Leetcode-repo\minimum-falling-path-sum-ii\minimum-falling-path-sum-ii\bin\Debug\net8.0\minimum-falling-path-sum-ii.pdb
+D:\Repositories\Leetcode-repo\minimum-falling-path-sum-ii\minimum-falling-path-sum-ii\obj\Debug\net8.0\minimum-falling-path-sum-ii.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Leetcode-repo\minimum-falling-path-sum-ii\minimum-falling-path-sum-ii\obj\Debug\net8.0\minimum-falling-path-sum-ii.AssemblyInfoInputs.cache
+D:\Repositories\Leetcode-repo\minimum-falling-path-sum-ii\minimum-falling-path-sum-ii\obj\Debug\net8.0\minimum-falling-path-sum-ii.AssemblyInfo.cs
+D:\Repositories\Leetcode-repo\minimum-falling-path-sum-ii\minimum-falling-path-sum-ii\obj\Debug\net8.0\minimum-falling-path-sum-ii.csproj.CoreCompileInputs.cache
+D:\Repositories\Leetcode-repo\minimum-falling-path-sum-ii\minimum-falling-path-sum-ii\obj\Debug\net8.0\minimum-falling-path-sum-ii.sourcelink.json
+D:\Repositories\Leetcode-repo\minimum-falling-path-sum-ii\minimum-falling-path-sum-ii\obj\Debug\net8.0\minimum-falling-path-sum-ii.dll
+D:\Repositories\Leetcode-repo\minimum-falling-path-sum-ii\minimum-falling-path-sum-ii\obj\Debug\net8.0\refint\minimum-falling-path-sum-ii.dll
+D:\Repositories\Leetcode-repo\minimum-falling-path-sum-ii\minimum-falling-path-sum-ii\obj\Debug\net8.0\minimum-falling-path-sum-ii.pdb
+D:\Repositories\Leetcode-repo\minimum-falling-path-sum-ii\minimum-falling-path-sum-ii\obj\Debug\net8.0\minimum-falling-path-sum-ii.genruntimeconfig.cache
+D:\Repositories\Leetcode-repo\minimum-falling-path-sum-ii\minimum-falling-path-sum-ii\obj\Debug\net8.0\ref\minimum-falling-path-sum-ii.dll

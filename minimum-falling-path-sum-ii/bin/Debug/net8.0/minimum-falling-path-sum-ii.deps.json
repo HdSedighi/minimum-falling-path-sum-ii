@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "minimum-falling-path-sum-ii/1.0.0": {
+        "runtime": {
+          "minimum-falling-path-sum-ii.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "minimum-falling-path-sum-ii/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
